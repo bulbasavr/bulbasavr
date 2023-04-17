@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stas Zvyagintsev</h1>
-<h3 align="center">Software Engineer</h3>
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/124485867/232558400-5349e799-48c1-4245-baaa-43052f23ebc7.png"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/124485867/232560059-4fd918bb-e43e-4fa9-bc9b-937f83b51b1b.png"/></p>
 
 
 
